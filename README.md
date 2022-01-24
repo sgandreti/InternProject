@@ -1,1 +1,0 @@
-# InternProject this is the test project i am working on for my internship positions
